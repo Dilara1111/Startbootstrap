@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    padding-top: 0;
+}
+.nav a{
+    margin-right: 50px;
+    text-decoration: none;
+    color: #fff;
+    padding-top: 100px;
+    
+}
+
+.logo{
+    float: left;
+    padding-left: 200px;
+    padding-top: 50px;
+    
+}
+.logo a{
+    text-decoration: none;
+    color:#ffc800;
+    padding-top: 20%;
+    font-size: 30px;
+    padding-left: 50px;
+}
+.nav{
+    float: right;
+}
+.first{
+    background-image: url("../img/header-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 20rem;
+}
+.first p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 36px;
+    margin: 0 0 32px;
+}
+.first h1{
+    color: #ffffff;
+    text-align: center;
+    font-size: 72px;
+    margin: 0 0 64px;
+
+
+}
+.btn1{
+    padding: 20px 40px;
+    color:#ffffff;
+    background-color:#ffc800;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 18px;
+    text-decoration: none;
+    transition: 1s;
+}
+#services{
+    width: 100%;
+    background-color: #f8f9fa;
+    padding: 100px 0px 200px;
+}
+#services h2{
+    color: #212529;
+    font-size: 40px;
+
+}
+#services h3{
+    color: #6c757c;
+    font-size: 16px;
+    padding-bottom: 20px;
+
+}
+#services h4{
+    text-align: center;
+    color: #212529;
+    font-size: 40px;
+    margin: 0 0 16px;
+    width: 50%;
+
+
+}
+#services p{
+    color: #6c757c;
+    text-align: center;
+    font-size: 16px;
+    margin: 0 0 64px;
+    width: 50%;
+}
+#services .img{
+    float: left;
+    width: 33.3%;
+    
+}
+#services .bottom{
+    text-align: center;
+
+}
+#services .img img{
+    width: 50%;
+}
+#portfolio{
+    padding-top: 0;
+    padding-bottom: 50px;
+}
+#portfolio .img img{
+    width: 80%;
+}
+#portfolio h2{
+    color: #212529;
+    font-size: 40px;
+    margin: 0 0 16px;
+    text-align: center;
+    width: 80%;
+
+}
+#portfolio h3{
+    color: #6c757c;
+    font-size: 16px;
+    margin:  0 64px;
+    text-align: center;
+    padding-bottom: 20px;
+    width: 80%;
+
+}
+#portfolio .img{
+    float: left;
+    width: 33.3%;
+    
+}
+#portfolio h4{
+    text-align: center;
+    padding: 15px;
+    font-size: 24px;
+}
+#portfolio p{
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 16px;
+}
+#team{
+    width: 100%;
+    background-color: #f8f9fa;
+    padding-top: 200px ;
+    
+}
+#team h2{
+    color: #212529;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 40px;
+
+
+}
+#team h3{
+    color: #6c757c;
+    font-size: 16px;
+    text-align: center;
+    padding: 20px;
+
+}
+#team .img{
+    float: right;
+    width: 33.3%;
+}
+#team .img img{
+    border-radius: 50%;
+}
+#team h4{
+    color: #212529;
+    font-size: 24px;
+    text-align: center;
+
+}
+#team p{
+    color: #6c757c;
+    font-size: 16px;
+    text-align: center;
+}
+#end p{
+    color:#6c757c;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 100px;
+    padding-top: 100px;
+    width: 80%;
+
+}
